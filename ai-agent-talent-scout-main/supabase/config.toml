@@ -1,0 +1,13 @@
+project_id = "elvbvgvnpucdpnfbndda"
+
+[functions.parse-jd]
+verify_jwt = false
+
+[functions.match-candidates]
+verify_jwt = false
+
+[functions.engage-candidate]
+verify_jwt = false
+
+[functions.discover-github]
+verify_jwt = false
